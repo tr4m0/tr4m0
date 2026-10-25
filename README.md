@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome to my portfolio
+
+This is my portfolio and the road to becoming a cybersecurity expert.
+I am trying to get into cybersecurity, at the moment I am working towards my first accepted Bug Bounty report.
+
+I am also studying Computer Science in Amsterdam.
 
 <!--
 **tr4m0/tr4m0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
